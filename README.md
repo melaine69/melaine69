@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, Je suis Mélaine</h1>
-<h3 align="center">Développeuse lyonnaise passionnée par le web</h3>
+<h3 align="center">Développeuse passionnée par le web</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
