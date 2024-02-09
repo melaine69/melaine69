@@ -1,10 +1,10 @@
 <h1 align="center">Bonjour 👋, Je suis Mélaine</h1>
 <h3 align="center">Développeuse passionnée par le web</h3>
-<a href="https://melaine.dev" target="blank">Portfolio </a> 
+<a href="https://melaine.dev" target="_blank">Portfolio </a> 
 
 <h3 align="left">Échangeons ensemble :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mélaine dewitte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mélaine dewitte" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/melaine-dewitte" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mélaine dewitte" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Langages / Frameworks :</h3>
