@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour 👋, Je suis Mélaine</h1>
 <h3 align="center">Développeuse passionnée par le web</h3>
-<a href="https//melaine.dev" target="blank">Portfolio </a> 
+<a href="https://melaine.dev" target="blank">Portfolio </a> 
 
 <h3 align="left">Échangeons ensemble :</h3>
 <p align="left">
