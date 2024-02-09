@@ -1,8 +1,8 @@
 <h1 align="center">Bonjour 👋, Je suis Mélaine</h1>
 <h3 align="center">Développeuse passionnée par le web</h3>
-<p>Mon portfolio : </p> <a href="https//melaine.dev" target="blank"></a> 
+<a href="https//melaine.dev" target="blank">Portfolio </a> 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Échangeons ensemble :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mélaine dewitte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mélaine dewitte" height="30" width="40" /></a>
 </p>
